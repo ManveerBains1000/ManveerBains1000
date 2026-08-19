@@ -90,15 +90,15 @@ I'm a **Computer Science Engineering student** passionate about building scalabl
 
 ---
 
-🧠 GenPrep
-MERN • AI • JWT • ATS
+## 🧠 GenPrep
+**MERN • AI • JWT • ATS**
 
-AI Interview Reports
-Skill Gap Analysis
-Personalized Preparation Roadmaps
-ATS-Optimized Resume Generation
-PDF Resume Export
-Secure Authentication & Token Blacklisting
+- AI Interview Reports
+- Skill Gap Analysis
+- Personalized Preparation Roadmaps
+- ATS-Optimized Resume Generation
+- PDF Resume Export
+- Secure Authentication & Token Blacklisting
 
 ---
 
